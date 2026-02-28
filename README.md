@@ -1,4 +1,4 @@
-# サクランボ被害果除去システム_弐号機 PC側の制御フォルダ
+# サクランボ被害果除去システム_弐号機 学習用のフォルダ
 ## 環境
 - Windows 11
 - Python 3.11
@@ -18,3 +18,4 @@ git clone https://github.com/masaru820G/DCRsystem_PC_train.git
 uv run python first.py
 ```
 「実行環境」「使用するパッケージ」が自動でインストールされる
+
